@@ -1,0 +1,9 @@
+*.class
+out/*
+!out/.gitkeep
+bin/
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
