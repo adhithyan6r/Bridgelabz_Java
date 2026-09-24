@@ -10,7 +10,7 @@ public class Athlete {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter side 1: ");
         double side1 = scanner.nextDouble();
-        System.out.print("Enter side 2 : ");
+        System.out.print("Enter side 2 ; ");
         double side2 = scanner.nextDouble();
         System.out.print("Enter side 3 : ");
         double side3 = scanner.nextDouble();
