@@ -1,5 +1,44 @@
 # Bridgelabz_java
 
+
+### Date : 26/09/2026
+
+**What I have done**
+
+- completed level 2 problems from Java string and pushed to github
+- working on level 3 of java strings 
+
+**What I will do**
+
+- Complete the level 3 of java strings and push it to git
+
+**Issues Faced**
+
+- None
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
+### Date : 25/09/2026
+
+**What I have done**
+
+- completed remaining problems from Java methods
+- Completed Level 1 problems from Java strings
+
+**What I will do**
+
+- Complete the remaining level 1 and level 2 of Java Strings
+
+**Issues Faced**
+
+- None
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
 ### Date : 24/09/2026
 
 **What I have done**
