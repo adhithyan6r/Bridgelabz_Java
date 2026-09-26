@@ -6,11 +6,13 @@
 **What I have done**
 
 - completed level 2 problems from Java string and pushed to github
-- working on level 3 of java strings 
+- Completed level 3 problems of Java Strings
+- pushed everything to Github
 
 **What I will do**
 
-- Complete the level 3 of java strings and push it to git
+- Solve more problems related to Java Stings
+- upload everything in Gcr
 
 **Issues Faced**
 
