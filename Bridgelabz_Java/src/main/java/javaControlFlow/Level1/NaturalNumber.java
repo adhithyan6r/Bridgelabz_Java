@@ -12,7 +12,5 @@ public class NaturalNumber {
         } else {
             System.out.println("The number " + number + " is not a natural number");
         }
-
-        scanner.close();
     }
 }

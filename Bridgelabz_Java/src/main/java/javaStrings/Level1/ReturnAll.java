@@ -10,7 +10,7 @@ public class ReturnAll {
         }
         return characters;
     }
-    // Method: Compare two character arrays.
+    // Method: Compare two character arrays
     public static boolean compareArrays(char[] array1, char[] array2) {
         if (array1.length != array2.length) {
             return false;

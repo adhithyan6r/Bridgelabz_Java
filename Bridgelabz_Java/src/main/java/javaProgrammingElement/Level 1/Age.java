@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class findAge {
+class Age {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("harry's birth year: ");
