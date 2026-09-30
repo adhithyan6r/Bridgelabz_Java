@@ -1,6 +1,44 @@
 # Bridgelabz_java
 
 
+
+### Date : 29/09/2026
+
+**What I have done**
+
+- completed my review
+- Completed Extra problems of Java Strings and built in function
+- pushed everything to Github
+
+**What I will do**
+
+- Complete level 1 and level 2 of class and objects
+
+**Issues Faced**
+
+- None
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+### Date : 28/09/2026
+
+**What I have done**
+
+- Started solving the java strings Extras problem
+
+**What I will do**
+
+- Complete the given work and start with oops
+
+**Issues Faced**
+
+- None
+
+-------------------------------------------------------------------------------------------------------
+
 ### Date : 26/09/2026
 
 **What I have done**
