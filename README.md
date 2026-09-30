@@ -1,7 +1,22 @@
 # Bridgelabz_java
 
+### Date : 30/09/2026
+
+**What I have done**
+
+- Completed Level 1 and Level 2 problems of Java Class and Objects
+- pushed everything to Github
+
+**What I will do**
+
+- Complete the remaining practice problems that are assigned to me and upload it to gcr
+
+**Issues Faced**
+
+- None
 
 
+-------------------------------------------------------------------------------------------------------
 ### Date : 29/09/2026
 
 **What I have done**
