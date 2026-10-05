@@ -1,5 +1,72 @@
 # Bridgelabz_java
 
+
+### Date : 5/10/2026
+
+**What I have done**
+
+- Completed the practice problems from encapsulation, polymorphism, interface, and abstraction.
+
+**What I will do**
+
+- Complete the Class diagrams and submit everything in GCR
+
+**Issues Faced**
+
+- None
+
+
+-----------------------------------------------------------------------------------------------------------------------
+### Date : 3/10/2026
+
+**What I have done**
+
+- Completed all practice problems from Java Inheritance
+
+**What I will do**
+
+- Complete the remaining practice problems from encapsulation, polymorphism, interface, and abstraction. 
+
+**Issues Faced**
+
+- None
+
+---------------------------------------------------------------------------------------------------------------------
+
+### Date : 2/10/2026
+
+**What I have done**
+
+- Completed practice problems of this, static, final keyword
+
+**What I will do**
+
+- Complete the practice problems of java Inheritance and push it in github
+
+**Issues Faced**
+
+- None
+
+---------------------------------------------------------------------------------------------------------------------
+
+### Date : 1/10/2026
+
+**What I have done**
+
+- Completed practice problems of java Constructors
+
+**What I will do**
+
+- Complete the remaining practice problems that are assigned to me and upload it to gcr
+
+**Issues Faced**
+
+- None
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
 ### Date : 30/09/2026
 
 **What I have done**
